@@ -9,3 +9,6 @@ This is a **Test**
 - Test 3sdfsdf
 
 sdfjllkjsdfljsdlfj
+
+
+This is a test for Git Flow.
